@@ -2,7 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heltonquintans/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@helton.quit)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helton_quintans/)
 
-![Helton GitHub stats](https://github-readme-stats.vercel.app/api?username=helton-quintans&theme=aura&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helton-quintans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Helton GitHub status](https://github-readme-stats.vercel.app/api?username=helton-quintans&theme=aura&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helton-quintans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technologies i use in my daily life
 
 <div style="display: inline_block"><br/>
