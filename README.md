@@ -37,3 +37,6 @@
 <li>👯 I’m looking to collaborate on OpenSource projects with messaging challenge</li>
 <li>🤔 I’m looking for help with Typescript</li>
 <li>📫 How to reach me: helton.quit@gmail.com</li>
+
+#### **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{helton-quintans}/count.svg)
