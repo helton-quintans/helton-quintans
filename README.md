@@ -33,7 +33,7 @@
 <!--![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) -->
 
 <li>💛 In love with JavaScript</li>
-<li>🌱 I’m currently learning ReactJs and React Native</li>
+<li>🌱 I’m currently learning ReactJs and NextJs</li>
 <li>👯 I’m looking to collaborate on OpenSource projects with messaging challenge</li>
 <li>🤔 I’m looking for help with Typescript</li>
 <li>📫 How to reach me: helton.quit@gmail.com</li>
