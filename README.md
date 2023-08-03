@@ -35,7 +35,6 @@
 <li>💛 In love with JavaScript</li>
 <li>🌱 I’m currently learning ReactJs and NextJs</li>
 <li>👯 I’m looking to collaborate on OpenSource projects with messaging challenge</li>
-<li>🤔 I’m looking for help with Typescript</li>
 <li>📫 How to reach me: helton.quit@gmail.com</li>
 
 #### **Visitors Count**  
